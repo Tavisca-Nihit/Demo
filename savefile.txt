@@ -1,0 +1,6 @@
+Product Name : Indigo
+Booking Status : True
+Product Type : HotelProduct
+Product Name : Hyatt
+Booking Status : True
+Price : 100

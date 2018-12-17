@@ -1,0 +1,22 @@
+Entered Main
+Entered Main
+Entered ProductType
+Instance of AirProduct type is created
+GetTypeOfProduct function called
+Entered Main
+Book function called
+Calculate Final Fare function called
+Save To File Function Called
+Entered Main
+Entered Main
+Entered Main
+Entered ProductType
+Instance of HotelProduct type is created
+Entered Main
+GetTypeOfProduct function called
+Entered Main
+Calculate Final Fare function called
+Book function called
+Save To File Function Called
+Entered Main
+Entered Main
